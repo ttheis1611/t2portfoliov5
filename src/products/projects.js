@@ -18,7 +18,7 @@ const  ProjectData = [
         "title":"Seek",
         "image":require("../../src/assets/screenshots/SEEK.JPG").default,
         "url":"https://nancyrosas0.github.io/Seek/index.html",
-        "repo":"https://nancyrosas0.github.io/Seek/index.html"
+        "repo":"https://github.com/nancyrosas0/Seek"
     },  
     {
         "id": 4,
