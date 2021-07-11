@@ -102,7 +102,7 @@ header nav ul li {
 }
 
 .hero {
-  height: 65vh;
+  height: 85vh;
   border: 5px solid var(--home-color);
   border-radius: 15%;
   margin: 30px;
