@@ -36,10 +36,10 @@ const  ProjectData = [
     },
     {
         "id": 6,
-        "title":"Final Challenge",
-        "image":require("../../src/assets/screenshots/Final.PNG").default,
-        "url":"https://github.com/ttheis1611",
-        "repo":"https://github.com/ttheis1611"
+        "title":"Tabs",
+        "image":require("../../src/assets/screenshots/Tabs.PNG").default,
+        "url":"https://tabs-trial-2.herokuapp.com/",
+        "repo":"https://github.com/Emilyrh1058/Tabs"
     }
 ]
 
